@@ -19,13 +19,13 @@ Feel free to check out my projects and contributions here, and connect with me i
 ---
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=HaninMustafa9&count_private=true&theme=tokyonight&showicons=true" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=HaninMustafa9&count_private=true&theme=tokyonight&showicons=true&hide_border=false" alt="My GitHub Stats" />
 </p>
 
 ---
 ## Language Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaninMustafa9&langs_count=5&theme=tokyonight" alt="My GitHub Language Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaninMustafa9&langs_count=5&theme=tokyonight&hide_border=false" alt="My GitHub Language Stats" />
 </p>
 
 ---
