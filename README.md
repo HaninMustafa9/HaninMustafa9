@@ -54,12 +54,6 @@ Feel free to check out my projects and contributions here, and connect with me i
   <img src="https://img.shields.io/badge/Matplotlib-%2300A3E0?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
 </p>
 
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Google_Colab-%234B32C3?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
-</p>
-
 ---
 ## Connect with Me
 <p align="center">
