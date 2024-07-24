@@ -32,7 +32,7 @@ Feel free to check out my projects and contributions here, and connect with me i
 ## Connect with Me
 
 <p align="center">
-  <a href="linkedin.com/in/haninmustafa" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/haninmustafa/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.kaggle.com/haninmustafa" target="_blank" rel="noopener noreferrer">
