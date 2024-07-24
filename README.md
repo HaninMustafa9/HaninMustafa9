@@ -29,7 +29,7 @@ Feel free to check out my projects and contributions here, and connect with me i
 </p>
 
 ---
-## 🛠️ Skills
+## Skills
 ### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -60,8 +60,7 @@ Feel free to check out my projects and contributions here, and connect with me i
   <img src="https://img.shields.io/badge/Google_Colab-%234B32C3?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
 </p>
 
-
-
+---
 ## Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/haninmustafa/" target="_blank" rel="noopener noreferrer">
