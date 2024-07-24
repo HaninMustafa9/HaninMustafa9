@@ -17,16 +17,28 @@ Feel free to check out my projects and contributions here, and connect with me i
 </p>
 
 ---
-## GitHub Stats
+## Performance Overview
+
+<div align="center">
+
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=HaninMustafa9&count_private=true&theme=tokyonight&showicons=true&hide_border=false" alt="My GitHub Stats" />
 </p>
+<br>
 
----
-## Language Stats
+### Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaninMustafa9&theme=tokyonight&hide_border=false" alt="HaninMustafa9's Streak">
+</p>
+<br>
+
+### Language Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaninMustafa9&langs_count=5&theme=tokyonight&hide_border=false" alt="My GitHub Language Stats" />
 </p>
+
+</div>
 
 ---
 ## Skills
